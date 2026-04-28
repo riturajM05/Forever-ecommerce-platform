@@ -29,8 +29,6 @@ A full-stack e-commerce application with a modern React frontend, admin dashboar
 ### Demo Video/GIF
 ![Demo GIF](.github/assets/demo.gif)
 
-> **Note**: Add your screenshots and demo GIFs to the `.github/assets/` folder. Supported formats: `.png`, `.jpg`, `.gif`, `.webp`
-
 ## Tech Stack
 
 ### Frontend
@@ -258,7 +256,3 @@ This project is under active development. Core features for customer shopping an
 ## Support
 
 For issues, questions, or contributions, please refer to the respective component documentation or contact the development team.
-
-## License
-
-This project is licensed under the ISC License. See the LICENSE file for details.
